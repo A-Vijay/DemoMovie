@@ -1,0 +1,6 @@
+module Pods_DemoMovie_DemoMovieUITests {
+  umbrella header "Pods-DemoMovie-DemoMovieUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
